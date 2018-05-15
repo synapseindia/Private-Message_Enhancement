@@ -1,0 +1,16 @@
+name = Private Message Enhancement
+description = Custom GMC Private Message Module to alter privatemsg module component.
+package = Custom
+version = VERSION
+core = 7.x
+files[] = gmc_private_message.module
+dependencies[] = privatemsg
+; Information added by drupal.org packaging script on 2018-03-23
+version = "7.custom"
+project = support
+; Information added by Drupal.org packaging script on 2018-03-28
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "private_message_enhancement"
+datestamp = "1522235886"
+
